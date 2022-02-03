@@ -1,10 +1,7 @@
 # Merge several CSV files in one File using Python
 
 
-Idea: To schedule tests using Jenkins so that the daily scheduled tests can be automatically triggered every day, removing the process of manually running it from Octoperf.
+**Idea**: To use Jupyter Notebook & Python Programming to merge several CSV files into a single CSV File.
 
-Problem Statement: Everyday, PE team needs to manually run two token creation test from Octoperf .
+Problem Statement: Team needs to merge several CSV files into a single CSV File
 
-Implementation Status: Implemented for automatically running Token creation test every day at 11:05 AM IST.
-
-Steps to be followed:
